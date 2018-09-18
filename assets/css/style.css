@@ -1,0 +1,48 @@
+body {
+    background: url("https://png.pngtree.com/thumb_back/fh260/back_pic/05/05/90/30596a0548054d6.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ratings {
+    color: black;
+    font-family: avenir;
+    font-size: 18px;
+    text-align: left;
+}
+
+h1 {
+    color:black;
+    font-size: 45px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: white;
+    color: black;
+    align-content: center;
+}
+
+@media screen and (max-width: 480px) {
+    .movImage {
+        width: 500px;
+        height: 500px;
+    }
+    body {
+        background-color: red;
+    }
+}
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 20px;
+}
