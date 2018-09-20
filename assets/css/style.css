@@ -17,11 +17,12 @@ img {
     height: 100px;
 }
 
-p {
+#apples {
     margin-top: 20px;
-    color:green;
-    font-size: 75px;
-    align-content: center;
+    color:#1316fc;
+    font-size: 85px;
+    display: -webkit-box;
+    text-align: -webkit-center;
 }
 
 .btn-primary {
@@ -35,8 +36,13 @@ p {
         width: 500px;
         height: 500px;
     }
-    body {
-        background-color: red;
+    
+    p{
+        font-size: 45px;
+        text-align: center;
+    }
+        .apple{
+            display:none;
     }
 }
 

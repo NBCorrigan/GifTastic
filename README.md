@@ -1,8 +1,8 @@
 # GifTastic
 Giphy API and JavaScript/jQuery
-
+![DemoPic](./assets/demo.png)<br>
 ## Live Link
-- https://yoonslee.github.io/HW6-GifTastic/
+-  Live demo: <a href="https://nbcorrigan.github.io/GifTastic/">https://nbcorrigan.github.io/GitTastic</a>
 
 ## Requirements
 - Generate a set of buttons based on an array of related strings
