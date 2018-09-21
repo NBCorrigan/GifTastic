@@ -15,9 +15,10 @@ p {
 
 img {
     height: 100px;
+    vertical-align: 0;
 }
 
-#apples {
+#header {
     margin-top: 20px;
     color:#1316fc;
     font-size: 85px;
@@ -41,7 +42,7 @@ img {
         font-size: 45px;
         text-align: center;
     }
-        .apple{
+    .apple{
             display:none;
     }
 }
